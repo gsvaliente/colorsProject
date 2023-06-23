@@ -2,7 +2,7 @@
 
 ## LINK TO PROJECT
 
-(click here to use it)[gsvb-colorgenerator.netlify.app]
+[click here to use it](gsvb-colorgenerator.netlify.app)
 
 This project was made with the intention of selecting different shades of a certain color easily.
 It has the feature of writting down the HEX color or using a color input.
